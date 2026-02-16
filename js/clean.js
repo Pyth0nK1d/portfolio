@@ -1,1 +1,1 @@
-const el = document.getElementById("watermark"); if (el) { el.remove(); }
+document.addEventListener("DOMContentLoaded", function () { const el = document.getElementById("watermark"); if (el) el.remove(); 
